@@ -12,24 +12,24 @@ body {
 
 /* -- HEADER -- */
 
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
 /* Renamed from .header div to .header nav to match new html semantic elements */
-.header nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,11 +37,11 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+header nav ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -65,7 +65,7 @@ a {
 /* -- MAIN -- */
 /* Swapped MAIN and ASIDE sections to match the order of the HTML file for readability*/
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -84,7 +84,7 @@ a {
 }
 
 /* Deleted .float-left class and combined its properties with the appropriate image selectors*/
-.content img {
+main img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
@@ -98,7 +98,7 @@ a {
 }
 
 /* Simplified h2 descendant combinators into one single h2 type selector - Note: kept .content class selector to improve specificity */
-.content h2 {
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -144,13 +144,13 @@ p {
 
 /* -- FOOTER -- */
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
