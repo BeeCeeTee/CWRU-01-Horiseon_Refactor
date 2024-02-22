@@ -14,9 +14,9 @@ This was a challenge to refactor the starter code to include semantic elements o
 
 To use, simply enter the following URL into the address bar:
 
-https://beeceetee.github.io/Challenge-1/
+https://beeceetee.github.io/Horiseon-Refactor/
 
-![Screenshot 2024-02-21 202154](https://github.com/BeeCeeTee/Challenge-1/assets/117789057/00750fa9-be0f-430f-ac1f-ce7787711fb9)
+![URL](https://github.com/BeeCeeTee/Horiseon-Refactor/assets/117789057/954dd8fb-5af2-44ac-a90f-762fa223b1b7)
 
 
 ## Credits
