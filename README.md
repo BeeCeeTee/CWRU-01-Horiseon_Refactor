@@ -14,9 +14,9 @@ This was a challenge to refactor the starter code to include semantic elements o
 
 To use, simply enter the following URL into the address bar:
 
-https://beeceetee.github.io/Horiseon-Refactor/
+[https://beeceetee.github.io/Horiseon-Refactor/](https://beeceetee.github.io/CWRU-01-Horiseon_Refactor/)
 
-![URL](https://github.com/BeeCeeTee/Horiseon-Refactor/assets/117789057/954dd8fb-5af2-44ac-a90f-762fa223b1b7)
+![Horiseon URL](https://github.com/BeeCeeTee/CWRU-01-Horiseon_Refactor/assets/117789057/f202eda1-0828-413f-9d2e-e310237e0efc)
 
 
 ## Credits
